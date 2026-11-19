@@ -1,0 +1,32 @@
+body{
+    text-align:center;
+    background-color:black;
+}
+
+h1{
+    color: white;
+    font-family: Arial, sans-serif;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+    font-family: Arial, sans-serif;
+}
+
+a:hover{
+    color: gray;
+}
+
+a:active{
+    color: red;
+}
+
+a:visited{
+    color: purple;
+}
+
+a:focus{
+    outline: 2px solid white;
+}
+
